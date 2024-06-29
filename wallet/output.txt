@@ -1,0 +1,48 @@
+Name: John || balance: 35000
+Name: James || balance: 3000
+Name: MasterGamer || balance: 1000000
+Name: FooBar || balance: 10000
+Name: UnnamedPlayer || balance: 2000
+Name: Salmon || balance: 7000
+transaction history: 
+John || -2000
+James || +1000
+John || -2000
+James || +1000
+John || +5000
+John || +5000
+John || +5000
+John || +5000
+John || +5000
+John || +5000
+John || +5000
+John's transaction history: 
+John || -2000
+John || -2000
+John || +5000
+John || +5000
+John || +5000
+John || +5000
+John || +5000
+John || +5000
+John || +5000
+Adding 5000 to John's account: 
+transaction history: 
+John || -2000
+James || +1000
+John || -2000
+James || +1000
+John || +5000
+John || +5000
+John || +5000
+John || +5000
+John || +5000
+John || +5000
+John || +5000
+John || +5000
+Name: John || balance: 40000
+Name: James || balance: 3000
+Name: MasterGamer || balance: 1000000
+Name: FooBar || balance: 10000
+Name: UnnamedPlayer || balance: 2000
+Name: Salmon || balance: 7000
